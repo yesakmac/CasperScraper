@@ -17,7 +17,7 @@ casper.start('http://casperjs.org/', function() {
     console.log('starting');
     fs.write(filename, '{"scrapes": \r\n' + '\t"output": { \r\n',  'a');
     rollit(arrdata);
-    
+    console.log(JSON.stringify(arrdata);
 });
 //lets roll through the array
 
@@ -39,6 +39,7 @@ function rollit(arrdata){
         //can't get casper to initate from here....
             casper.thenOpen(site,function(){
                    console.log(this.getTitle());
+                   
                    fs.write(filename, '\t \t ["QUERYSTRING": "' + site + '" ], ["Title": "' + this.getTitle() + '"], \r\n',  'a');
                 });
 
