@@ -17,7 +17,7 @@ casper.start('http://casperjs.org/', function() {
     console.log('starting');
     fs.write(filename, '{"scrapes": \r\n' + '\t"output": { \r\n',  'a');
     rollit(arrdata);
-    console.log(JSON.stringify(arrdata);
+    //console.log(JSON.stringify(arrdata);
 });
 //lets roll through the array
 

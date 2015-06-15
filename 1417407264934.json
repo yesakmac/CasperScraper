@@ -1,0 +1,12 @@
+{"scrapes": 
+	"output": { 
+	 	 ["QUERYSTRING": "http://kaseyclark.com/?s=Line8" ], ["Title": "Line1 | The website of Kasey Clark"], 
+	 	 ["QUERYSTRING": "http://kaseyclark.com/?s=Line8" ], ["Title": "Line2 | The website of Kasey Clark"], 
+	 	 ["QUERYSTRING": "http://kaseyclark.com/?s=Line8" ], ["Title": "Line3 | The website of Kasey Clark"], 
+	 	 ["QUERYSTRING": "http://kaseyclark.com/?s=Line8" ], ["Title": "Line4 | The website of Kasey Clark"], 
+	 	 ["QUERYSTRING": "http://kaseyclark.com/?s=Line8" ], ["Title": "Line5 | The website of Kasey Clark"], 
+	 	 ["QUERYSTRING": "http://kaseyclark.com/?s=Line8" ], ["Title": "Line6 | The website of Kasey Clark"], 
+	 	 ["QUERYSTRING": "http://kaseyclark.com/?s=Line8" ], ["Title": "Line7 | The website of Kasey Clark"], 
+	 	 ["QUERYSTRING": "http://kaseyclark.com/?s=Line8" ], ["Title": "Line8 | The website of Kasey Clark"], 
+	}
+} 
